@@ -82,4 +82,9 @@ public class ArrayListExample {
         // 리스트가 비어 있는지 확인
         System.out.println("Is the list empty? " + list.isEmpty());
     }
+
 }
+
+//로또 생성기
+//45까지 있고
+//        6개 숫자를 랜덤으로 뽑기
